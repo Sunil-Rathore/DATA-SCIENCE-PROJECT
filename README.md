@@ -1,3 +1,1 @@
-# DATA-SCIENCE-PROJECT
-This project is use for learn data science for beginner...
- Here I inculde the basic python, webscraping,basic data anaylsis project
+Data-Science-Projects-with-Python-master
